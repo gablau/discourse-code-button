@@ -1,0 +1,4 @@
+plugins:
+  codebutton_ui:
+    default: true
+    client: true

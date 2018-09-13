@@ -1,0 +1,5 @@
+it:
+  js:
+    composer:
+      codebutton_ui_button_title: "Formatta codice sorgente"
+      codebutton_ui_default_text: "qui tuo codice"
