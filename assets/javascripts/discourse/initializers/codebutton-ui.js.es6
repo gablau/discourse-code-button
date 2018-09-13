@@ -12,7 +12,6 @@ function initializePlugin(api)
         id: "codebutton_ui_button",
         group: 'insertions',
         icon: "file-code-o",
-        title: 'codebutton_ui_title',
         perform: e => e.applySurround('```cpp\n', '\n```', 'codebutton_ui_default_text')
       });
     });
